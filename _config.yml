@@ -1,5 +1,5 @@
 # main text of home
-name: John Doe
+name: Jonas Vinther
 bio: A Man who travels the world eating noodles
 
 # twitter summary info
@@ -48,11 +48,11 @@ github: mygithub
 # reddit: username
 medium: medium
 # vimeo: myvimeo
-email: myemail@gmail.com
+email: jrvinther@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
+        name: Jonas Vinther
         bio: A Man who travels the world eating noodles
         external-image: false
         picture: assets/images/profile.jpg
